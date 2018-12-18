@@ -1,7 +1,7 @@
 #! /bin/bash
 # get sum of input range
 # easy
-# https://wenku.baidu.com/view/deab4b7b2bf90242a8956bec0975f46527d3a7ad.html 3
+# https://wenku.baidu.com/view/deab4b7b2bf90242a8956bec0975f46527d3a7ad.html 4
 # while operator function $@
 function sum() {
     n=$1
