@@ -2,6 +2,7 @@
 # transpose file
 # medium
 # https://leetcode-cn.com/problems/transpose-file/
+# awk
 awk '{
     for (i = 1; i <= NF; i++) {
         if ((NR == 1)) {
