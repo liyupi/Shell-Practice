@@ -11,7 +11,6 @@
 11. 把test.txt中出现的第一个数字和最后一个单词调换位置
 12. 把test.txt中第一个数字移动到行末尾； 13在test.txt 20行到末行最前面加“aaa”
 
-
 cp - a / etc / passwd / root / test . txt ; sed - n '1,$' p test . txt
 sed - n '3,10' p test . txt
 sed - n '/root/' p test . txt
